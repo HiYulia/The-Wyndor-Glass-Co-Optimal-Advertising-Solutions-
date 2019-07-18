@@ -23,7 +23,7 @@ The second one is the empirical additive error model (EAE), where 𝑚(2(𝑋, �
 
 The next step is putting what we received from the prediction into the optimization program. This part is called Learning Enabled Optimization (LEO), which is an approach combining statistical learning and stochastic optimization. The model is shown below:
 
-![Image of LEO](https://github.com/xinyueniu/The-Wyndor-Glass-Co-Optimal-Advertising-Solutions-/blob/master/glass.png)
+![Image of LEO](https://github.com/xinyueniu/The-Wyndor-Glass-Co-Optimal-Advertising-Solutions-/blob/master/change.png)
 
 𝑖 ≡ 𝑖𝑛𝑑𝑒𝑥𝑜𝑓𝑝𝑟𝑜𝑑𝑢𝑐𝑡,𝑖 ∈ {𝐴,𝐵}.
 
